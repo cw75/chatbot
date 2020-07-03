@@ -1,6 +1,6 @@
 from torchtext import data
-from constants import SOS_TOKEN, EOS_TOKEN, PAD_TOKEN
-from util import Metadata
+from ...constants import SOS_TOKEN, EOS_TOKEN, PAD_TOKEN
+from ...util import Metadata
 from . import DATA_FOLDER
 
 

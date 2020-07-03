@@ -1,5 +1,5 @@
 import torch.nn as nn
-from util import RNNWrapper
+from ...util import RNNWrapper
 from abc import ABC, abstractmethod
 from .embeddings import embeddings_factory
 

@@ -1,7 +1,7 @@
 import torch
 import pickle
 import os
-from constants import MODEL_FORMAT
+from .constants import MODEL_FORMAT
 
 
 def ensure_dir_exists(path):

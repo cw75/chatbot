@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from abc import ABC, abstractmethod
-from constants import LSTM, GRU
+from ...constants import LSTM, GRU
 
 # TODO comments, implementation
 

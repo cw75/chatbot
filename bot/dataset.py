@@ -1,6 +1,6 @@
-from datasets.twitter_customer_support.dataset import load_dataset as twitter_dataset
-from datasets.twitter_customer_support.dataset import load_field as twitter_field
-from datasets.twitter_customer_support.dataset import load_metadata as twitter_metadata
+from .datasets.twitter_customer_support.dataset import load_dataset as twitter_dataset
+from .datasets.twitter_customer_support.dataset import load_field as twitter_field
+from .datasets.twitter_customer_support.dataset import load_metadata as twitter_metadata
 
 
 DATASET_IDX = 0

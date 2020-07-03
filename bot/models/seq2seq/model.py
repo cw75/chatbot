@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import random
 import string
-from constants import SOS_TOKEN, EOS_TOKEN
+from ...constants import SOS_TOKEN, EOS_TOKEN
 from .sampling import GreedySampler, RandomSampler, BeamSearch
 
 
