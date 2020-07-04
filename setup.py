@@ -9,7 +9,7 @@ setup(
     install_requires=[
         'emoji==0.5.1',
         'pandas==0.23.4',
-        'tweet-preprocessor==0.5.0',
+        'tweet-preprocessor==0.6.0',
         'scikit_learn==0.20.0',
         'spacy==2.0.16',
         'spacy_cld==0.1.0',
